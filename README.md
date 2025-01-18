@@ -1,16 +1,18 @@
-# tennis_scoreboard
+# App Móvil de Marcador de Tenis
 
-A new Flutter project.
+Esta aplicación es un marcador de tenis interactivo e intuitivo diseñado para ser usado por el juez de silla de un partido, y así tener control sobre la puntuación.
 
-## Getting Started
+La app está desarrollada en **Flutter**, lo que permite una experiencia multiplataforma tanto en dispositivos iOS como Android.
 
-This project is a starting point for a Flutter application.
+Está conectada a un backend desarrollado con **Node.js** y **Express**, en el cual se manejan los datos, almacenados en Firebase (puedes encontrar este repositorio usando este link https://github.com/DanielRosaIzquierdo/BackendTenis).
 
-A few resources to get you started if this is your first Flutter project:
+## Visualización
+![image](https://github.com/user-attachments/assets/21df982b-2eaf-411c-babf-802bb9bd5911)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalación
+
+Clona el repositorio:
+   ```bash
+   git clone https://github.com/DanielRosaIzquierdo/Tennis_Scoreboard_MobileApp.git
+```
